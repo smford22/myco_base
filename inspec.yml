@@ -1,0 +1,8 @@
+name: myco_base
+title: InSpec Profile
+maintainer: Scott Ford
+copyright:  Scott Ford
+copyright_email: sford@chef.io
+license: All Rights Reserved
+summary: An InSpec Compliance Profile
+version: 0.1.0
